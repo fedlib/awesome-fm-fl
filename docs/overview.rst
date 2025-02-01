@@ -50,7 +50,7 @@ This repository is primarily based on our survey paper 📚🔍:
 .. raw:: html
 
    <p align=center>
-        <img src="https://github.com/lishenghui/awesome-fm-fl/blob/main/docs/images/fmfltaxonomy.png" width="1000" alt="Taxonomy">
+        <img src="https://github.com/fedlib/awesome-fm-fl/blob/main/docs/images/fmfltaxonomy.png" width="1000" alt="Taxonomy">
    </p>
 
 ---
